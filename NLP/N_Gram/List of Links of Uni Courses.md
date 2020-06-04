@@ -35,3 +35,7 @@ https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/syllabus.html
 **List of papers:** https://cs224d.stanford.edu/project.html
 
 [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+
+
+## MIT OPEN
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/index.htm
