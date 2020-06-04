@@ -1,4 +1,4 @@
-#List of Study Resources for NLP
+# List of Study Resources for NLP
 
 ### University of Washington
 https://courses.cs.washington.edu/courses/cse517/17wi/
