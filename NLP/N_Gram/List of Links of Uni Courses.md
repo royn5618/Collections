@@ -1,3 +1,5 @@
+List of Study Resources for NLP
+
 ## University of Washington
 https://courses.cs.washington.edu/courses/cse517/17wi/
 
@@ -19,7 +21,7 @@ https://github.com/fastai/course-nlp
 https://course.spacy.io/en/
 
 ## Stanford
-[http://web.stanford.edu/class/cs224n/]
-[https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/syllabus.html]
-List of paper: [https://cs224d.stanford.edu/project.html]
+http://web.stanford.edu/class/cs224n/
+https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/syllabus.html
+List of paper: https://cs224d.stanford.edu/project.html
 [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
