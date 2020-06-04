@@ -13,9 +13,9 @@ cs.tau.ac.il/~joberant/teaching/nlp_spring_2019/index.html
 
 
 ### Oxford
-https://github.com/oxford-cs-deepnlp-2017/lectures
+**Lectures:** https://github.com/oxford-cs-deepnlp-2017/lectures
 
-https://github.com/oxford-cs-deepnlp-2017/practical-open
+**Practicals:** https://github.com/oxford-cs-deepnlp-2017/practical-open
 
 
 ### FastAI
@@ -32,6 +32,6 @@ http://web.stanford.edu/class/cs224n/
 
 https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/syllabus.html
 
-List of paper: https://cs224d.stanford.edu/project.html
+**List of papers:** https://cs224d.stanford.edu/project.html
 
 [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
