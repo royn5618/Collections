@@ -1,6 +1,6 @@
-(http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
-[https://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/]
+https://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/
 
 https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
 
